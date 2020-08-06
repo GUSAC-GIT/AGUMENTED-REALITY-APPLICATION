@@ -14,6 +14,7 @@
 - [Components](#components)
 - [Description](#description)
 - [Source](#source)
+- [Team-Info](#team-info)
 
 
 ---
@@ -46,7 +47,7 @@ https://drive.google.com/drive/folders/1p8HI1bmkuORzc45I9DGZFRMEJPeoN_TA?usp=sha
 
 ---
 
-## Author Info
+## Team Info
 
 Gusac Projects Team
 
