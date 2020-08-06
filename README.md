@@ -39,8 +39,7 @@ Augmented Reality software helps create computer-enhanced immersive experiences 
 
 ## Source
 
-http://github.com - automatic!
-[GitHub](https://drive.google.com/drive/folders/1p8HI1bmkuORzc45I9DGZFRMEJPeoN_TA?usp=sharing)
+https://drive.google.com/drive/folders/1p8HI1bmkuORzc45I9DGZFRMEJPeoN_TA?usp=sharing
 
 
 [Back To The Top](#agumented-reality-application)
